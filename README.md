@@ -7,4 +7,4 @@ Rebuilt using following architecture:
 Bottleneck Blocks were used for the deeper resnet models and regular Blocks were used for Res18 and Res34.
 
 
-Achieves 84% accuracy on CIFAR 10.
+Achieves 83.66% accuracy on CIFAR 10.
